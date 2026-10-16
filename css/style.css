@@ -1,0 +1,49 @@
+html{
+    background-color: bisque;
+    
+}
+h1{
+    text-align: center;
+    margin: 30px;
+}
+
+h2,li{
+    margin: 10px;
+}
+
+img{
+    margin-left:30% ;
+    width: 40%;
+    height: auto;
+    margin-right: 30%;
+
+}
+.description{
+    text-align: center;
+}
+.menu{
+    text-align: center;
+    background-color: brown;
+    padding: 30px;
+}
+.menu li, menu li a{
+    
+    
+    color: white;
+    padding: 10px;
+    background-color:#3c1200f8  ;
+
+
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    color: inherit;
+    size: 20px;
+
+}
+footer{
+    text-align: center;
+    
+}
